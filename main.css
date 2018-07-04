@@ -151,9 +151,28 @@ ul{
     margin: 0 10px;
 }
 
+/*----------Work 01 ----------*/
 
+.work{
+    width: 100%;
+    position: relative;
+    margin-bottom: 20em;
+}
 
+.work > .workText {
+    position: absolute;
+    top: 85;
+}
 
+.work > .workText > .underline {
+    display: block;
+    background-color: #027BFF;
+    height: 3px;
+    width: 61px;
+    margin-top: 5px;
+}
+
+.work >.working
 
 
 
