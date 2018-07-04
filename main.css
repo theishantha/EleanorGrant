@@ -133,13 +133,23 @@ ul{
 }
 
 .landingR img{
-    height: 350px;
+    height: 300px;
 }
 
+/*---------Skills --------*/
+.skills{
+    text-align: center;
+    margin-bottom: 20em;
+}
 
+.skills p{
+    margin-bottom: 30px;
+}
 
-
-
+.skills img{
+    width: 50px;
+    margin: 0 10px;
+}
 
 
 
