@@ -162,7 +162,7 @@ ul{
 
 .work > .workText {
     position: absolute;
-    top: 85px;
+    top: 90px;
 }
 
 .work > .workText > .underline {
@@ -205,7 +205,7 @@ ul{
 
 .work2 > .workText {
     position: absolute;
-    top: 85px;
+    top: 150px;
     right: 0;
     text-align: right;
 }
@@ -239,10 +239,29 @@ ul{
     margin-top: 20px;
 }
 
+/*------- foooter--------*/
 
+.footer{
+    background-image: url(images/Dribbble_Blue_Large.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 320px;
+    padding-bottom: 7em;
+    text-align: center;
+}
 
+.footer a {
+    color: #027BFF;
+    text-decoration:none;
+}
 
-
+.underlineSmall{
+    display: block;
+    height: 3px;
+    width: 41px;
+    margin: 5px auto 0 auto;
+    background-color: #027BDD;
+}
 
 
 
