@@ -21,6 +21,12 @@ html{
     font-weight: 100;
 }
 
+
+.blue{
+    color: #027BFF;
+}
+
+
 body{
     width: 60%;
     margin: auto;
@@ -94,15 +100,41 @@ p{
 }
 
 
+/*--------- Landing---------*/
 
+.landing{
+    height: 100vh;
+    position: relative;
+}
 
+.landingWrapper{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+/*    background: red;*/
+}
 
+ul{
+    list-style: none;
+    margin-top: 30px;
+    line-height: 30px;
+}
 
+.landingL{
+    margin-top: 4em;
+}
 
+.scroll{
+    position: absolute;
+    bottom: 180px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
 
-
-
-
+.landingR img{
+    height: 350px;
+}
 
 
 
