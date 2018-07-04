@@ -56,3 +56,114 @@ p{
     margin-top: 10px;
     font-size: 20px;
 }
+
+
+
+/*--------Nav---------*/
+.nav{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+.contactMe, .navIcons{
+    flex: 1;
+}
+
+.navIcons{
+    text-align: right;
+}
+
+.navIcons a, .contactMe a, .contactMe img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.navIcons a {
+    margin-left: 40px;
+}
+
+.contatMe a {
+    color: #027BFF;
+    text-decoration: none;
+}
+
+.contactMe img{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
